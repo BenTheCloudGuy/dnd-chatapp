@@ -104,7 +104,8 @@ Elandra Stormraven – The Vampiric Champion
     - Unholy Resilience (2 Actions): Elandra regenerates 20 HP unless in sunlight or affected by radiant damage.
 - Actions:
     - Multiattack. Elandra makes two Spectral Greatsword attacks.
-    - Spectral Greatsword. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 6) slashing + 10 (3d6) necrotic damage.
+    - Spectral Greatsword. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. 
+        - Hit: 22 (4d6 + 6) slashing + 10 (3d6) necrotic damage.
     - Wail of the Forsaken (Recharge 5-6). Elandra lets out a piercing wail. Each creature within 30 feet that hears it must make a DC 16 Constitution saving throw or be stunned until the end of their next turn.
 
 - Seraphine Stormraven – The Vampiric Sorceress

@@ -13,7 +13,6 @@ Talks about tracking Strahd.
 
 Full page handdrawn with information on various persons within the regions. 
 
-
 ## NPC Information ##
 
 ## Stormraven Sisters ##
